@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 👋 Hi, I’m @dev-shahzadali
+- 👋 Hi, I’m Muhammad Shahzad Ali
 - 🌱 I am currently Studying Software Development with Machine Learning and Graphics as electives
 - 🤔 I’m looking for help with Machine Learning
 - 👯 I’m looking to collaborate on Machine Learning Projects
